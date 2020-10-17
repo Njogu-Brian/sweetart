@@ -829,8 +829,9 @@ padding: 5em 2em;
 /*-- stats-count-- */
 
 .stats-count {
-  background: url(../images/b3.jpg) no-repeat center;
+  background: url(../images/pieces-chocolate-cakes-metal-plate-with-berries-fruits-scattered-around.jpg) no-repeat center;
   background-size: cover;
+  box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.3);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -845,7 +846,7 @@ padding: 5em 2em;
 
 .number-w3three-info h6 {
   font-size: 16px;
-  color: #000;
+  color: whitesmoke;
   font-weight: 700;
 }
 /*-- stats-count-- */
